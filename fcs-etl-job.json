@@ -3,7 +3,7 @@
   "appId": "fcs-etl-0.3.1",
   "archive": true,
   "inputs": {
-    "cytometryConfiguration":  "agave://data-tacc-work-jeg/fcs-etl-example/cytometer_configuration.json",
+    "cytometerConfiguration":  "agave://data-tacc-work-jeg/fcs-etl-example/cytometer_configuration.json",
     "processControl": "agave://data-tacc-work-jeg/fcs-etl-example/cytometer_configuration.json",
     "experimentalData": "agave://data-tacc-work-jeg/fcs-etl-example/cytometer_configuration.json",
     "colorModelParameters": "agave://data-tacc-work-jeg/fcs-etl-example/cytometer_configuration.json",
