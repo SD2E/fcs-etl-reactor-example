@@ -30,11 +30,11 @@
 
 			{
 				"name": "PE-Tx-Red-YG-A",
-				"calibration_file": "/data/controls/2012-03-12_mkate_P3.fcs"
+				"calibration_file": "controls/2012-03-12_mkate_P3.fcs"
 			},
 			{
 				"name": "Pacific Blue-A",
-				"calibration_file": "/data/controls/2012-03-12_ebfp2_P3.fcs"
+				"calibration_file": "controls/2012-03-12_ebfp2_P3.fcs"
 			}
 		],
 
@@ -42,11 +42,11 @@
 		"cross_file_pairs": [{
 				"_comment1": "array of two or three channels: the first two will be compared. If the third is available, it will be used to improve clustering of the first two.", 
 				"channels": ["FITC-A", "PE-Tx-Red-YG-A", "Pacific Blue-A"],
-				"file": "/data/controls/2012-03-12_mkate_EBFP2_EYFP_P3.fcs"
+				"file": "controls/2012-03-12_mkate_EBFP2_EYFP_P3.fcs"
 			},
 			{
 				"channels": ["FITC-A", "Pacific Blue-A", "PE-Tx-Red-YG-A"],
-				"file": "/data/controls/2012-03-12_mkate_EBFP2_EYFP_P3.fcs"
+				"file": "controls/2012-03-12_mkate_EBFP2_EYFP_P3.fcs"
 			}
 		]
 	}
