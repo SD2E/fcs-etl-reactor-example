@@ -38,7 +38,7 @@
 		},
                 "channels": ["EYFP"],
 		"_comment7": "additional parameters controlling data processing and output; type can be bin_counts or point_clouds",
-                "type": "point_clouds",
+    "additional_outputs": ["point_clouds", "bayesdb_files"],
 		"min_valid_count": 100,
 		"pem_drop_threshold": 5,
 		"bin_min": 6,
