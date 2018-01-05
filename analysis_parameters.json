@@ -31,10 +31,10 @@
 			"title": "sample_run",
 			"plots": true,
 			"plots_folder": "plots",
-			"output_folder": "/data/output",
-			"file": "/data/output/output.csv",
+			"output_folder": "output",
+			"file": "output/output.csv",
 			"quicklook": true,
-			"quicklook_folder": "/data/quicklook"
+			"quicklook_folder": "quicklook"
 		},
                 "channels": ["EYFP"],
 		"_comment7": "additional parameters controlling data processing and output; type can be bin_counts or point_clouds",
