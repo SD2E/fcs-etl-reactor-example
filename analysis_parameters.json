@@ -36,7 +36,7 @@
 			"quicklook": true,
 			"quicklook_folder": "quicklook"
 		},
-                "channels": ["EYFP"],
+                "channels": ["mKate", "EYFP","EBFP2"],
 		"_comment7": "additional parameters controlling data processing and output; type can be bin_counts or point_clouds",
     "additional_outputs": ["histogram", "point_clouds", "bayesdb_files"],
 		"min_valid_count": 100,
